@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="v_layout" type="id" />
+    <item name="i_layout" type="id" />
+    <item name="b_layout" type="id" />
+    <item name="g_layout" type="id" />
+    <item name="y_layout" type="id" />
+    <item name="o_layout" type="id" />
+    <item name="r_layout" type="id" />
+    <item name="action_settings" type="id" />
+</resources>
